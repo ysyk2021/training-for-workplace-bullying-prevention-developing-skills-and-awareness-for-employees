@@ -1,5 +1,4 @@
-Chapter 3: Developing a Workplace Bullying Prevention Policy: Communicating the Policy to All Employees
-=======================================================================================================
+# Communicating the Policy to All Employees
 
 In this chapter, we will explore the importance of developing a workplace bullying prevention policy and effectively communicating it to all employees.
 

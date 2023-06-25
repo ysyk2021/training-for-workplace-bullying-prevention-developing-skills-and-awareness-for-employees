@@ -1,5 +1,4 @@
-Chapter 5: Equipping Managers to Address Workplace Bullying: Creating a Positive Work Environment that Prevents Workplace Bullying
-==================================================================================================================================
+# Creating a Positive Work Environment that Prevents Workplace Bullying
 
 Managers play a crucial role in preventing and addressing workplace bullying. In this chapter, we will discuss how managers can create a positive work environment that prevents workplace bullying.
 

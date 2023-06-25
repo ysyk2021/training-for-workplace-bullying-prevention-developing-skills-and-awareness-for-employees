@@ -1,5 +1,4 @@
-Chapter 5: Equipping Managers to Address Workplace Bullying: The Role of Managers in Preventing Workplace Bullying
-==================================================================================================================
+# The Role of Managers in Preventing Workplace Bullying
 
 Managers play a critical role in preventing workplace bullying. In this chapter, we will discuss the role of managers in preventing workplace bullying and strategies for equipping them with the skills and knowledge to prevent workplace bullying.
 

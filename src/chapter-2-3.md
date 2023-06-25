@@ -1,5 +1,4 @@
-Chapter 2: Understanding Workplace Bullying: The Causes and Consequences of Workplace Bullying
-==============================================================================================
+# The Causes and Consequences of Workplace Bullying
 
 Workplace bullying can have severe consequences for both individuals and organizations. In this chapter, we will explore the causes and consequences of workplace bullying to better understand why it occurs and the impact it can have.
 

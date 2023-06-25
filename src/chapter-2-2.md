@@ -1,5 +1,4 @@
-Chapter 2: Understanding Workplace Bullying: Different Forms of Workplace Bullying
-==================================================================================
+# Different Forms of Workplace Bullying
 
 Workplace bullying can take many different forms, and it is essential to recognize these forms to address them appropriately and prevent future incidents. In this chapter, we will explore the different forms of workplace bullying.
 

@@ -1,5 +1,4 @@
-Chapter 6: Responding to Workplace Bullying Incidents: Supporting Both the Target and the Perpetrator of Workplace Bullying
-===========================================================================================================================
+# Supporting Both the Target and the Perpetrator of Workplace Bullying
 
 Responding to workplace bullying incidents is crucial for creating a safe and respectful work environment for all employees. In this chapter, we will discuss strategies for supporting both the target and the perpetrator of workplace bullying.
 

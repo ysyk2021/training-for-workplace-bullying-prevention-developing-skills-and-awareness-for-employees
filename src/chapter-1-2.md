@@ -1,5 +1,4 @@
-Chapter 1: Introduction: The Impact of Workplace Bullying on Individuals and Organizations
-==========================================================================================
+# The Impact of Workplace Bullying on Individuals and Organizations
 
 Workplace bullying can have severe consequences for both individuals and organizations. In this chapter, we will explore the impact of workplace bullying on individuals and organizations.
 

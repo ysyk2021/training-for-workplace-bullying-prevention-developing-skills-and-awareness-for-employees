@@ -1,5 +1,4 @@
-Chapter 4: Educating Employees on Workplace Bullying Prevention: The Importance of Empathy and Compassion in Preventing Workplace Bullying
-==========================================================================================================================================
+# The Importance of Empathy and Compassion in Preventing Workplace Bullying
 
 In this chapter, we will explore the importance of empathy and compassion in preventing workplace bullying and how to educate employees on these concepts.
 

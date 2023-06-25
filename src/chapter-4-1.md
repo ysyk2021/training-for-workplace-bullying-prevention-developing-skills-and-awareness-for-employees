@@ -1,5 +1,4 @@
-Chapter 4: Educating Employees on Workplace Bullying Prevention: Techniques for Raising Awareness of Workplace Bullying
-=======================================================================================================================
+# Techniques for Raising Awareness of Workplace Bullying
 
 In this chapter, we will explore techniques for raising awareness of workplace bullying and educating employees on prevention strategies.
 

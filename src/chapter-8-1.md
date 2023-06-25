@@ -1,5 +1,4 @@
-Chapter 8: Conclusion: Recap of Key Points and Strategies
-=========================================================
+# Recap of Key Points and Strategies
 
 Preventing workplace bullying is essential for creating a safe and respectful work environment for all employees. In this book, we have discussed key points and strategies for developing skills and awareness for employees and managers to prevent workplace bullying.
 

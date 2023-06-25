@@ -1,5 +1,4 @@
-Chapter 5: Equipping Managers to Address Workplace Bullying: Techniques for Managing and Resolving Workplace Bullying Incidents
-===============================================================================================================================
+# Techniques for Managing and Resolving Workplace Bullying Incidents
 
 Managers play a crucial role in preventing and addressing workplace bullying. In this chapter, we will discuss techniques for equipping managers to manage and resolve workplace bullying incidents.
 

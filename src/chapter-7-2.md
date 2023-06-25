@@ -1,5 +1,4 @@
-Chapter 7: Measuring and Evaluating Workplace Bullying Prevention Success: Evaluating Individual and Team Performance
-=====================================================================================================================
+# Evaluating Individual and Team Performance
 
 Measuring and evaluating the success of workplace bullying prevention efforts is crucial for creating a safe and respectful work environment for all employees. In this chapter, we will discuss strategies for evaluating individual and team performance in workplace bullying prevention.
 

@@ -1,5 +1,4 @@
-Chapter 1: Introduction: Defining Workplace Bullying
-====================================================
+# Defining Workplace Bullying
 
 Workplace bullying is a significant issue that can have severe consequences for both individuals and organizations. In this chapter, we will provide a definition of workplace bullying and explore its key characteristics.
 

@@ -1,5 +1,4 @@
-Chapter 2: Understanding Workplace Bullying: Overview of Workplace Bullying
-===========================================================================
+# Overview of Workplace Bullying
 
 Workplace bullying is a significant issue that can have severe consequences for both individuals and organizations. In this chapter, we will provide an overview of workplace bullying, including its definition, prevalence, and impact.
 

@@ -1,5 +1,4 @@
-Chapter 7: Measuring and Evaluating Workplace Bullying Prevention Success: Continuous Improvement in Workplace Bullying Prevention
-==================================================================================================================================
+# Continuous Improvement in Workplace Bullying Prevention
 
 In this chapter, we will explore the importance of measuring and evaluating workplace bullying prevention success and continuous improvement in workplace bullying prevention efforts.
 

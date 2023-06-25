@@ -1,5 +1,4 @@
-Chapter 4: Educating Employees on Workplace Bullying Prevention: Building Skills to Recognize and Address Workplace Bullying
-============================================================================================================================
+# Building Skills to Recognize and Address Workplace Bullying
 
 In this chapter, we will explore the importance of educating employees on workplace bullying prevention and building their skills in recognizing and addressing workplace bullying.
 

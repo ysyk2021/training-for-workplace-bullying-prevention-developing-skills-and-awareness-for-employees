@@ -1,5 +1,4 @@
-Chapter 3: Developing a Workplace Bullying Prevention Policy: The Importance of a Comprehensive Workplace Bullying Prevention Policy
-====================================================================================================================================
+# The Importance of a Comprehensive Workplace Bullying Prevention Policy
 
 In this chapter, we will explore the importance of developing a comprehensive workplace bullying prevention policy and its key components.
 

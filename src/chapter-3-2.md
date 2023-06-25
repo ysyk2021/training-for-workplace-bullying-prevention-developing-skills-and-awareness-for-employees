@@ -1,5 +1,4 @@
-Chapter 3: Developing a Workplace Bullying Prevention Policy: Developing Effective Policies and Procedures
-==========================================================================================================
+# Developing Effective Policies and Procedures
 
 In this chapter, we will explore strategies for developing effective workplace bullying prevention policies and procedures.
 
