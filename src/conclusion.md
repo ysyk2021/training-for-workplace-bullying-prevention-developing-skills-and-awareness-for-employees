@@ -1,4 +1,4 @@
-# Conclusion
+
 
 In this book, we have explored the issue of workplace bullying and strategies for prevention. We have discussed the importance of training for employees and managers to increase awareness and develop skills for preventing and addressing workplace bullying.
 

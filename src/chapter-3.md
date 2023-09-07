@@ -1,5 +1,3 @@
-Chapter 3: Developing a Workplace Bullying Prevention Policy
-============================================================
 
 Workplace bullying can have severe consequences for individuals and organizations. Therefore, it is essential to create a comprehensive workplace bullying prevention policy that outlines the organization's expectations and procedures for addressing workplace bullying. This chapter will discuss the importance of such a policy and provide guidance on developing an effective one.
 
@@ -43,5 +41,4 @@ Once you have developed a workplace bullying prevention policy, it is essential 
 * Encourage employees to ask questions and seek clarification if necessary.
 
 In conclusion, developing a comprehensive workplace bullying prevention policy is essential for creating a safe and respectful workplace. By following the steps outlined in this chapter and communicating the policy effectively, organizations can take proactive measures to prevent workplace bullying and protect their employees' well-being.
-
 

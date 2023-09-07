@@ -1,5 +1,3 @@
-Chapter 4: Educating Employees on Workplace Bullying Prevention
-===============================================================
 
 In this chapter, we will explore techniques for raising awareness of workplace bullying, building skills to recognize and address workplace bullying, and the importance of empathy and compassion in preventing workplace bullying.
 

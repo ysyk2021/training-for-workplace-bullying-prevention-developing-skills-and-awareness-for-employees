@@ -1,5 +1,3 @@
-Chapter 8: Conclusion
-=====================
 
 In this book, we have explored the issue of workplace bullying and strategies for prevention. We have discussed the importance of training for employees and managers to increase awareness and develop skills for preventing and addressing workplace bullying.
 
@@ -34,5 +32,4 @@ While significant progress has been made in understanding and preventing workpla
 * Continued evaluation and improvement of workplace bullying prevention training programs.
 
 Overall, workplace bullying prevention requires a comprehensive and ongoing effort from all levels of an organization. By implementing effective training programs and continuing to research and refine prevention strategies, we can create safer and more respectful work environments for all.
-
 

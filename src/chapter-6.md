@@ -1,5 +1,3 @@
-Chapter 6: Responding to Workplace Bullying Incidents
-=====================================================
 
 Responding effectively to workplace bullying incidents is crucial for creating a safe and respectful workplace for all employees. In this chapter, we will discuss strategies for addressing workplace bullying complaints, ensuring confidentiality and fairness in the investigation process, and supporting both the target and the perpetrator of workplace bullying.
 

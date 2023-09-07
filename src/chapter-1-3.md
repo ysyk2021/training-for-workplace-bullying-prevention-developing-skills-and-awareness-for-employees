@@ -1,4 +1,3 @@
-# Why Training for Workplace Bullying Prevention is Critical
 
 Workplace bullying is a significant issue that can have severe consequences for both individuals and organizations. It can lead to decreased productivity, increased staff turnover, damage to the organization's reputation, and legal liability if not addressed appropriately. Therefore, it is critical to provide training for workplace bullying prevention to employees and managers.
 

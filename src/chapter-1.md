@@ -1,5 +1,3 @@
-Chapter 1: Introduction
-=======================
 
 Workplace bullying is a significant issue that affects many workplaces worldwide. In this chapter, we will provide an overview of workplace bullying, including its definition, impact on individuals and organizations, and the importance of training for workplace bullying prevention.
 

@@ -1,4 +1,3 @@
-# Ensuring Confidentiality and Fairness in the Investigation Process
 
 When responding to workplace bullying incidents, it is essential to ensure confidentiality and fairness in the investigation process to protect the privacy of all parties involved and promote a fair and impartial investigation. In this chapter, we will discuss strategies for ensuring confidentiality and fairness in the investigation process.
 

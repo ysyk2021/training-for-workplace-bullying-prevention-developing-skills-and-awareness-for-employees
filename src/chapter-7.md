@@ -1,5 +1,3 @@
-Chapter 7: Measuring and Evaluating Workplace Bullying Prevention Success
-=========================================================================
 
 Measuring and evaluating the effectiveness of workplace bullying prevention efforts is crucial for creating a safe and respectful work environment for all employees. In this chapter, we will discuss metrics for measuring workplace bullying prevention effectiveness, evaluating individual and team performance, and continuous improvement in workplace bullying prevention.
 
